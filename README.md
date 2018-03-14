@@ -44,6 +44,10 @@ Diseñar una aplicación móvil con el fin de:
 
 - WHAT IF
 
+    - ¿WHAT IF un turista extranjero descargara nuestra aplicación?
+
+    - ¿WHAT IF algunas personas no saben qué es un ANP?
+
 ### Card Sorting
 
 ### User flow
