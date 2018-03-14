@@ -5,8 +5,8 @@
 
 Diseñar una aplicación móvil con el fin de:
 
-- PROMOVER el TURISMO responsable en ÁREAS NATURALES PROTEGIDAS (ANP)
-- Dar a CONOCER la RIQUEZA NATURAL que poseen estas áreas y la importancia de su CONSERVACIÓN.
+- Promover el turismo responsable en Áreas Naturales Protegidas (ANP)
+- Dar a conocer la riqueza natural que poseen estas áreas y la importancia de su conservación.
 
 ## Descubrimiento e Investigación
 
