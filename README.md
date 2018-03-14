@@ -27,8 +27,16 @@ Diseñar una aplicación móvil con el fin de:
 - User Persona
 
 - Problem Statements
+    
+    - Raúl necesita encontrar información confiable sobre destinos naturales para planear su próximo viaje
 
+    - Raúl necesita un modo de ingresar a distintas ANP y no tener que hacer trámites cada vez que quiere visitar una
+
+    - Raúl necesita saber cuándo habrán cupos disponibles en la reserva a la cual quiere ir como voluntario. 
+ 
 - HMW
+
+    -
 
 - WHAT IF
 
