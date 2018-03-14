@@ -28,7 +28,7 @@ Diseñar una aplicación móvil con el fin de:
 
 - Problem Statements
     
-    - Raúl necesita encontrar información confiable sobre destinos naturales para planear su próximo viaje
+    - Raúl necesita encontrar información confiable y sencilla sobre destinos naturales para planear su próximo viaje
 
     - Raúl necesita un modo de ingresar a distintas ANP y no tener que hacer trámites cada vez que quiere visitar una
 
@@ -36,7 +36,11 @@ Diseñar una aplicación móvil con el fin de:
  
 - HMW
 
-    -
+    - ¿Cómo podríamos organizar toda la información de áreas naturales en una aplicación móvil?
+
+    - ¿Cómo podríamos facilitar el ingreso de visitantes a diversas ANP?
+
+    - ¿Cómo podríamos introducir la información de voluntariados en nuestra aplicación?
 
 - WHAT IF
 
