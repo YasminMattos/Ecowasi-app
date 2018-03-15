@@ -33,14 +33,7 @@ En la búsqueda de medidas paliativas al problema nace 'Ecowasi App', una herram
 
 ## Descubrimiento e Investigación
 
-### Estudio de caso:
-
-- **Benchmarking funcional**
-
-    Se tomó como referencia aplicativos que ya están en el mercado con fines similares:
-
-    ![matriz](assets/images/matriz-benchmark.png)
-
+### Case Study:
 
 - **Información del SERNANP**
 
@@ -51,6 +44,12 @@ En la búsqueda de medidas paliativas al problema nace 'Ecowasi App', una herram
     ![data-ANP](assets/images/data-anp.png)
 
     La estrategia actual que tiene el SERNANP para acercar a los turistas a las ANP es su portal web [Turismo naturaleza](www.turismonaturaleza.pe) y el _Pasaporte de las ANP_ que permite el ingreso a diez áreas protegidas al precio de seis, durante el periodo de 2 años, el cual se debe adquirir presencialmente en las sedes administrativas del SERNANP.
+
+- **Benchmarking funcional**
+
+    Se tomó como referencia aplicativos que ya están en el mercado con fines similares:
+
+    ![matriz](assets/images/matriz-benchmark.png)
 
 ### User research
 
