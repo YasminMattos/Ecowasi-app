@@ -23,12 +23,9 @@ Es el organismo público encargado de conservar el patrimonio natural del Perú 
 Según el Convenio Internacional sobre la Diversidad Biológica, es el término por el que se hace referencia a la amplia variedad de seres vivos sobre la Tierra.
 
 
-## Entendiendo la problemática
-
-El SERNANP carece de productos digitales para la difusión y promoción de las ANP, debido a que su aplicación móvil 'Perú Natural' lanzada el 2014 actualmente se encuentra fuera de funcionamient,  lo cual supone una desventaja al momento de intentar posicionar a las ANP en la oferta turística del país como destinos ideales para el turismo de naturaleza, aventura, cultura y recreación. Asimismo, la población necesita ser motivada y sentir suyas éstas áreas, pues solo así se convertirán en aliados estratégicos para la conservación y cuidado de las mismas.
-
 ## Justificación del problema
 
+El SERNANP carece de productos digitales para la difusión y promoción de las ANP, debido a que su aplicación móvil 'Perú Natural' lanzada el 2014 actualmente se encuentra fuera de funcionamiento,  lo cual supone una desventaja al momento de intentar posicionar a las ANP en la oferta turística del país como destinos ideales para el turismo de naturaleza, aventura, cultura y recreación. Asimismo, la población necesita ser motivada y sentir suyas éstas áreas, pues solo así se convertirán en aliados estratégicos para la conservación y cuidado de las mismas.
 
 ## Descubrimiento e Investigación
 
@@ -36,11 +33,18 @@ El SERNANP carece de productos digitales para la difusión y promoción de las A
 
 - Benchmarking
 
+
 - Información del SERNANP
+
+    Datos estadísticos sobre turismo en ANPs
 
 ### User research
 
 - Encuestas online
+
+    Fecha de difusión: 13/03/2018.
+
+    Fecha de cierre: 15/03/2018.
 
 ## Síntesis y definición
 
