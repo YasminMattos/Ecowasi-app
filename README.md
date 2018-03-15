@@ -64,12 +64,12 @@ En la búsqueda de medidas paliativas al problema nace 'Ecowasi App', una herram
     **Resultados:**
 
     Fueron 15 los encuestados, personas con perfiles diversos de entre 20 y 50 años. 
-    
+
     - El 100% disfruta de viajar y estar en contacto con la naturaleza.
     - Las ANP de mayor preferencia son: Parque Nacional del Manu, Santuario Histórico de MachuPicchu, Parque Nacional Huascarán, Parque Nacional Tingo María, Reserva Nacional Pacaya - Samiria, Reserva Nacional Tambopata y Reserva Nacional de Paracas.
-    - El 90.9% desea tener una sección de voluntariados en ANP.
+    - El 91,7% desea tener una sección de voluntariados en ANP.
     - Al 100% le gustaría comprar el pasaporte de las ANP a través de la aplicación.
-    - Al 90,9% le gustaría jugar un juego que les permita acumular puntos para acceder a descuentos en la compra de este Pasaporte.
+    - Al 91,7% le gustaría jugar un juego que les permita acumular puntos para acceder a descuentos en la compra de este Pasaporte.
 
 ## Síntesis y definición
 
