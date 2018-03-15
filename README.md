@@ -29,7 +29,7 @@ El SERNANP carece de productos digitales para la difusión y promoción de las A
 
 ## Justificación del problema
 
-Es así que en la búsqueda de medidas paliativas al problema nace 'Ecowasi App', una herramienta para el público en general, que busca difundir información y consejos valiosos para visitar seis principales ANP en la costa, sierra y selva del país. Es también relevante mencionar que al incrementarse las visitas a estas áreas, a través del cobro por la entrada, se genera una fuente de ingreso para mantener y proteger las ANP.
+En la búsqueda de medidas paliativas al problema nace 'Ecowasi App', una herramienta para el público en general, que busca difundir información y consejos valiosos para visitar seis principales ANP en la costa, sierra y selva del país. Es también relevante mencionar que al incrementarse las visitas a estas áreas, a través del cobro por la entrada, se genera una fuente de ingreso para mantener y proteger las ANP.
 
 ## Descubrimiento e Investigación
 
@@ -56,11 +56,11 @@ Es así que en la búsqueda de medidas paliativas al problema nace 'Ecowasi App'
 
 ## Ideación
 
-- User Persona
+- **User Personas**
 
-    Primary person
+    - Primary person
 
-    Secondary Person
+    - Secondary Person
     
     ![secondary-person](assets/images/user-persona1.png)
 
