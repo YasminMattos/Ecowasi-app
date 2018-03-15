@@ -80,6 +80,8 @@ En la búsqueda de medidas paliativas al problema nace 'Ecowasi App', una herram
 - **User Personas**
 
     - **Primary person**
+    
+    ![primary-person](assets/images/user-persona.png)
 
     - **Secondary Person**
     
@@ -91,7 +93,7 @@ En la búsqueda de medidas paliativas al problema nace 'Ecowasi App', una herram
 
     - Raúl necesita un modo de ingresar a distintas ANP y no tener que hacer trámites cada vez que quiere visitar una.
 
-    - Raúl necesita saber cuándo habrán cupos disponibles en la reserva a la cual quiere ir como voluntario. 
+    - Tania necesita saber cuándo habrán cupos disponibles en la reserva a la cual quiere ir como voluntaria. 
  
 - **HMW**
 
