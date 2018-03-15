@@ -37,14 +37,18 @@ En la búsqueda de medidas paliativas al problema nace 'Ecowasi App', una herram
 
 - **Benchmarking funcional**
 
-    Se tomó como referencia aplicativos con fines similares que ya están en el mercado:
+    Se tomó como referencia aplicativos que ya están en el mercado con fines similares:
 
     ![matriz](assets/images/matriz-benchmark.png)
 
 
 - **Información del SERNANP**
 
-    Datos estadísticos sobre turismo en ANPs
+    Existe una creciente tendencia mundial hacia la conservación del medio ambiente y la riqueza en biodiversidad que van de la mano con los Objetivos de Desarrollo Sostenible (ODS), lo que ubica al Perú y a sus áreas naturales protegidas como destino de naturaleza, un sector que al año mueve $215 billones (OMT).
+    
+    El impulso al turismo en las ANP se ha convertido en una de las mejores estrategias de conservación por su bajo impacto en el medio y por crear un efecto multiplicador en las economías locales. 
+
+    ![data-ANP](assets/images/data-anp.png)
 
 ### User research
 
