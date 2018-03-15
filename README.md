@@ -39,12 +39,7 @@ En la búsqueda de medidas paliativas al problema nace 'Ecowasi App', una herram
 
     Se tomó como referencia aplicativos con fines similares que ya están en el mercado:
 
-    Empresas analizadas:
-
-    Información recolectada:
-
-    Aspectos tomados para mejora:
-    
+    ![matriz](assets/images/matriz-benchmark.png)
 
 
 - **Información del SERNANP**
