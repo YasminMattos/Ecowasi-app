@@ -47,7 +47,7 @@ En la búsqueda de medidas paliativas al problema nace 'Ecowasi App', una herram
 
 - **Benchmarking funcional**
 
-    Se tomó como referencia aplicativos que ya están en el mercado con fines similares:
+    Se tomó como referencia aplicativos disponibles en Play Store con fines similares:
 
     ![matriz](assets/images/matriz-benchmark.png)
 
