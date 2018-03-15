@@ -12,15 +12,15 @@
 
 **- Áreas Naturales Protegidas (ANP)**
     
-    Son espacios marinos y terrestres del territorio nacional reconocidos, establecidos y protegidos legalmente por el Estado como tales, debido a que resguardan una gran diversidad de seres vivos y demás valores asociados de interés cultural, paisajístico y científico, así como por su contribución al desarrollo sostenible del país.
+Son espacios marinos y terrestres del territorio nacional reconocidos, establecidos y protegidos legalmente por el Estado como tales, debido a que resguardan una gran diversidad de seres vivos y demás valores asociados de interés cultural, paisajístico y científico, así como por su contribución al desarrollo sostenible del país.
 
 **- Servicio Nacional de Áreas Naturales Protegidas por el Estado (SERNANP)**
 
-    Es el organismo público encargado de conservar el patrimonio natural del Perú mediante la administración de 216 Áreas Naturales Protegidas.
+Es el organismo público encargado de conservar el patrimonio natural del Perú mediante la administración de 216 Áreas Naturales Protegidas.
 
 **- Biodiversidad o diversidad biológica**
 
-    Según el Convenio Internacional sobre la Diversidad Biológica, es el término por el que se hace referencia a la amplia variedad de seres vivos sobre la Tierra.
+Según el Convenio Internacional sobre la Diversidad Biológica, es el término por el que se hace referencia a la amplia variedad de seres vivos sobre la Tierra.
 
 
 ## Entendiendo la problemática
