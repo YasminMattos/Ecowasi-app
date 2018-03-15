@@ -79,29 +79,29 @@ En la búsqueda de medidas paliativas al problema nace 'Ecowasi App', una herram
 
 - **User Personas**
 
-    - Primary person
+    - **Primary person**
 
-    - Secondary Person
+    - **Secondary Person**
     
     ![secondary-person](assets/images/user-persona1.png)
 
-- Problem Statements
+- **Problem Statements**
     
-    - Raúl necesita encontrar información confiable y sencilla sobre destinos naturales para planear su próximo viaje
+    - Raúl necesita encontrar información confiable y sencilla sobre destinos naturales para planear su próximo viaje.
 
-    - Raúl necesita un modo de ingresar a distintas ANP y no tener que hacer trámites cada vez que quiere visitar una
+    - Raúl necesita un modo de ingresar a distintas ANP y no tener que hacer trámites cada vez que quiere visitar una.
 
     - Raúl necesita saber cuándo habrán cupos disponibles en la reserva a la cual quiere ir como voluntario. 
  
-- HMW
+- **HMW**
 
     - ¿Cómo podríamos organizar toda la información de áreas naturales en una aplicación móvil?
 
-    - ¿Cómo podríamos facilitar el ingreso de visitantes a diversas ANP?
+    - ¿Cómo podríamos facilitar el ingreso de visitantes a diversas ANP a través de nuestra aplicación?
 
     - ¿Cómo podríamos introducir la información de voluntariados en nuestra aplicación?
 
-- WHAT IF
+- **WHAT IF**
 
     - ¿WHAT IF un turista extranjero descargara nuestra aplicación?
 
