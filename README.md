@@ -25,26 +25,35 @@ Según el Convenio Internacional sobre la Diversidad Biológica, es el término 
 
 ## Problemática
 
-El SERNANP carece de productos digitales para la difusión y promoción de las ANP, debido a que su aplicación móvil 'Perú Natural' lanzada el 2014 actualmente se encuentra fuera de funcionamiento,  lo cual supone una desventaja al momento de intentar posicionar a las ANP en la oferta turística del país como destinos ideales para el turismo de naturaleza, aventura, cultura y recreación. Asimismo, la población necesita ser motivada y sentir suyas éstas áreas, pues solo así se convertirán en aliados estratégicos para la conservación y cuidado de las mismas.
+El SERNANP carece de productos digitales descargables para la difusión y promoción de las ANP, debido a que su aplicación móvil 'Perú Natural' lanzada el 2014 actualmente se encuentra fuera de funcionamiento,  lo cual supone una desventaja al momento de intentar posicionar a las ANP en la oferta turística del país como destinos ideales para el turismo de naturaleza, aventura, cultura y recreación. Asimismo, la población necesita ser motivada y sentir suyas éstas áreas, pues solo así se convertirán en aliados estratégicos para la conservación y cuidado de las mismas.
 
 ## Justificación del problema
 
-En la búsqueda de medidas paliativas al problema nace 'Ecowasi App', una herramienta para el público en general, que busca difundir información y consejos valiosos para visitar seis principales ANP en la costa, sierra y selva del país. Es también relevante mencionar que al incrementarse las visitas a estas áreas, a través del cobro por la entrada, se genera una fuente de ingreso para mantener y proteger las ANP.
+En la búsqueda de medidas paliativas al problema nace 'Ecowasi App', una herramienta didáctica y educativa para el público en general, que busca difundir información y consejos valiosos tanto para visitar como para hacer voluntariado en seis principales ANP en la costa, sierra y selva del país. Es también relevante mencionar que al incrementarse las visitas a estas áreas, a través del cobro por la entrada, se genera una fuente de ingreso para mantener y proteger las ANP.
 
 ## Descubrimiento e Investigación
 
 ### Estudio de caso:
 
-- Benchmarking
+- **Benchmarking funcional**
+
+    Se tomó como referencia aplicativos con fines similares que ya están en el mercado:
+
+    Empresas analizadas:
+
+    Información recolectada:
+
+    Aspectos tomados para mejora:
+    
 
 
-- Información del SERNANP
+- **Información del SERNANP**
 
     Datos estadísticos sobre turismo en ANPs
 
 ### User research
 
-- Encuestas online
+- **Encuestas online**
 
     Fecha de difusión: 13/03/2018.
 
@@ -52,7 +61,7 @@ En la búsqueda de medidas paliativas al problema nace 'Ecowasi App', una herram
 
 ## Síntesis y definición
 
-- Affinity maps
+- **Affinity maps**
 
 ## Ideación
 
@@ -86,15 +95,15 @@ En la búsqueda de medidas paliativas al problema nace 'Ecowasi App', una herram
 
     - ¿WHAT IF algunas personas no saben qué es un ANP?
 
+## MVP
+
+### Feature list
+
 ### Card Sorting
 
 ### A/B testing
 
 ### User flow
-
-## MVP
-
-### Feature list
 
 ## Prototyping / Testing
 
