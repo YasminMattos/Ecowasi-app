@@ -5,7 +5,7 @@
 
 ## Objetivos:
 
-- Promover el turismo sostenible y el voluntariado en Áreas Naturales Protegidas (ANP)
+- Promover el ecoturismo responsable y el voluntariado en Áreas Naturales Protegidas (ANP)
 - Dar a conocer la riqueza natural que poseen estas áreas y la importancia de su conservación.
 
 ## Antes de empezar: Términos claves
@@ -24,6 +24,10 @@ Según el Convenio Internacional sobre la Diversidad Biológica, es el término 
 
 
 ## Entendiendo la problemática
+
+El SERNANP carece de productos digitales para la difusión y promoción de las ANP, debido a que su aplicación móvil 'Perú Natural' lanzada el 2014 actualmente se encuentra fuera de funcionamient,  lo cual supone una desventaja al momento de intentar posicionar a las ANP en la oferta turística del país como destinos ideales para el turismo de naturaleza, aventura, cultura y recreación. Asimismo, la población necesita ser motivada y sentir suyas éstas áreas, pues solo así se convertirán en aliados estratégicos para la conservación y cuidado de las mismas.
+
+## Justificación del problema
 
 
 ## Descubrimiento e Investigación
