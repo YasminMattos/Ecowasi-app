@@ -1,20 +1,27 @@
-# Ecowasi App
+# Personal Project: Ecowasi App
 ------
+
+'Ecowasi' es una aplicación móvil que te conecta con la naturaleza, un espacio de apertura para el turismo vivencial.
 
 ## Objetivos:
 
-Diseñar una aplicación móvil con el fin de:
-
-- Promover el turismo responsable en Áreas Naturales Protegidas (ANP)
+- Promover el turismo responsable y el voluntariado en Áreas Naturales Protegidas (ANP)
 - Dar a conocer la riqueza natural que poseen estas áreas y la importancia de su conservación.
+
+## Entendiendo la problemática
+
+
+
 
 ## Descubrimiento e Investigación
 
-### Research:
+### Estudio de caso:
 
 - Benchmarking
 
-- Analitics SERNANP
+- Información del SERNANP
+
+### User research
 
 - Encuestas online
 
