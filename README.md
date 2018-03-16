@@ -77,23 +77,23 @@ En la búsqueda de medidas paliativas al problema nace 'Ecowasi App', una herram
 
 ## Ideación
 
-- **User Personas**
-
-    - **Primary person**
+- **Personas**
     
-    ![primary-person](assets/images/user-persona.png)
+    ![primary-person](assets/images/user-persona0.png)
 
-    - **Secondary Person**
+    ![primary-person](assets/images/user-persona.png)
     
     ![secondary-person](assets/images/user-persona1.png)
 
 - **Problem Statements**
     
-    - Raúl necesita encontrar información confiable y sencilla sobre destinos naturales para planear su próximo viaje.
+    - Raúl necesita encontrar información confiable y detallada sobre destinos naturales para planear su próximo viaje.
 
     - Raúl necesita un modo de ingresar a distintas ANP y no tener que hacer trámites cada vez que quiere visitar una.
 
-    - Tania necesita saber cuándo habrán cupos disponibles en la reserva a la cual quiere ir como voluntaria. 
+    - Adrian necesita saber cuándo habrán cupos disponibles en la reserva a la cual quiere ir como voluntario.
+
+    - Adrian necesita encontrar el modo de que mediante la tecnología sus amigos se interesen por conocer las ANP.
  
 - **HMW**
 
@@ -103,9 +103,11 @@ En la búsqueda de medidas paliativas al problema nace 'Ecowasi App', una herram
 
     - ¿Cómo podríamos introducir la información de voluntariados en nuestra aplicación?
 
+    - ¿Cómo podríamos usar la tecnología para llamar la atención de los jóvenes y se interesen en visitar las ANP?
+
 - **WHAT IF**
 
-    - ¿WHAT IF un turista extranjero descargara nuestra aplicación?
+    - ¿WHAT IF un turista extranjero de habla inglesa descargara nuestra aplicación?
 
     - ¿WHAT IF algunas personas no saben qué es un ANP?
 
