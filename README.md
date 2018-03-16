@@ -37,7 +37,7 @@ En la búsqueda de medidas paliativas al problema nace 'Ecowasi App', una herram
 
 ### Case Study:
 
-- **Información del SERNANP**
+- **Análisis del SERNANP**
 
     Existe una creciente tendencia mundial hacia la conservación del medio ambiente y la biodiversidad incluidos en los Objetivos de Desarrollo Sostenible (ODS), lo que ubica al Perú y a sus áreas naturales protegidas como destino de naturaleza, un sector que al año mueve $215 billones (OMT).
     
@@ -61,7 +61,7 @@ En la búsqueda de medidas paliativas al problema nace 'Ecowasi App', una herram
 
     **Fecha de cierre:** 16/03/2018.
 
-    [Link de encuestas](https://docs.google.com/forms/d/e/1FAIpQLScYp9-tZqtEd3dJj-U2y-Jtp9reeX-U_GjR8A7V3qWhvSbeHg/viewform?usp=sf_link)
+    [Link de encuestas](https://docs.google.com/forms/d/1eNeJjY8uq5aqFtQd49RaoLonVF1_Ge_L7-w0Yv3HcPc/edit#responses)
 
     **Resultados:**
 
@@ -86,9 +86,21 @@ En la búsqueda de medidas paliativas al problema nace 'Ecowasi App', una herram
     - Al 100% le gustaría comprar el pasaporte de las ANP a través de la aplicación.
     - Al 94,4% le gustaría que mediante un juego acumulen puntos para acceder a descuentos en la compra de este Pasaporte.
 
+- **Lo que opinan los expertos**
+    
+    Sandro Chávez Vásquez - Ex jefe del SERNANP             
+
+    > "Queremos comunicar que las áreas naturales no solo nos brindan paisajes hermosos, sino que nos dan una gran biodiversidad y numerosos servicios ambientales, como el agua y el clima. Se trata de todo un potencial que debemos cuidar."
+
+    Ignacio March - Maestro en manejo y conservación de vida silvestre:
+
+    > “La gente está cada vez más en las pantallas, en lo virtual, en contacto único y exclusivo con la tecnología, lo que ha provocado un síndrome que tiene distintos efectos. Lo que nosotros queremos es que la gente salga, conozca la importancia y el placer de estar en la naturaleza y así la proteja y la defienda.”
+
 ## Síntesis y definición
 
 - **Affinity maps**
+
+
 
 ## Ideación
 
@@ -127,6 +139,7 @@ En la búsqueda de medidas paliativas al problema nace 'Ecowasi App', una herram
     - ¿WHAT IF algunas personas no saben qué es un ANP?
 
 ## MVP
+----
 
 ### Feature list
 
