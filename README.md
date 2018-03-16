@@ -25,7 +25,9 @@ Según el Convenio Internacional sobre la Diversidad Biológica, es el término 
 
 ## Problemática
 
-El SERNANP carece de productos digitales descargables para la difusión y promoción de las ANP, debido a que su aplicación móvil 'Perú Natural' lanzada el 2014 actualmente se encuentra fuera de funcionamiento,  lo cual supone una desventaja al momento de intentar posicionar a las ANP en la oferta turística del país como destinos ideales para el turismo de naturaleza, aventura, cultura y recreación. Asimismo, la población necesita ser motivada y sentir suyas éstas áreas, pues solo así se convertirán en aliados estratégicos para la conservación y cuidado de las mismas.
+El SERNANP no cuenta con suficientes productos digitales descargables para la difusión del turismo y la promoción de voluntariados en ANP. 
+
+Su aplicación móvil 'Perú Natural' lanzada el 2014, actualmente se encuentra fuera de funcionamiento,  lo cual supone una desventaja al momento de intentar posicionar a las ANP en la oferta turística del país como destinos ideales para el turismo de naturaleza, aventura, cultura y recreación. Asimismo, la población necesita ser motivada y sentir suyas éstas áreas, pues solo así se convertirán en aliados estratégicos para la conservación y cuidado de las mismas.
 
 ## Justificación del problema
 
@@ -43,7 +45,7 @@ En la búsqueda de medidas paliativas al problema nace 'Ecowasi App', una herram
 
     ![data-ANP](assets/images/data-anp.png)
 
-    La estrategia actual que tiene el SERNANP para acercar a los turistas a las ANP es su portal web [Turismo naturaleza](www.turismonaturaleza.pe) y el _Pasaporte de las ANP_ que permite el ingreso a diez áreas protegidas al precio de seis, durante el periodo de 2 años, el cual se debe adquirir presencialmente en las sedes administrativas del SERNANP.
+    La estrategia actual que tiene el SERNANP para acercar a los turistas a las ANP es su portal web [Turismo naturaleza](www.turismonaturaleza.pe), la aplicación 'Perú camping' para los aficionados a los campamentos  y el _Pasaporte de las ANP_ que permite el ingreso a diez áreas protegidas al precio de seis, durante el periodo de 2 años, el cual se debe adquirir presencialmente en las sedes administrativas del SERNANP.
 
 - **Benchmarking funcional**
 
