@@ -38,9 +38,7 @@ En la búsqueda de medidas paliativas al problema nace 'Ecowasi App', una herram
 
 - **Análisis del SERNANP**
 
-    Existe una creciente tendencia mundial hacia la conservación del medio ambiente y la biodiversidad incluidos en los Objetivos de Desarrollo Sostenible (ODS), lo que ubica al Perú y a sus áreas naturales protegidas como destino de naturaleza, un sector que al año mueve $215 billones (OMT).
-
-    *[(OMT)]: Organización Mundial del Turismo
+    Existe una creciente tendencia mundial hacia la conservación del medio ambiente y la biodiversidad incluidos en los Objetivos de Desarrollo Sostenible (ODS), lo que ubica al Perú y a sus áreas naturales protegidas como destino de naturaleza, un sector que al año mueve $215 billones (OMT - Organización Mundial del Turismo).
     
     El impulso al turismo en las ANP se ha convertido en una de las mejores estrategias de conservación por su bajo impacto en el medio y por crear un efecto multiplicador en las economías locales. 
 
