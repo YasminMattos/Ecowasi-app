@@ -26,7 +26,7 @@ Según el Convenio Internacional sobre la Diversidad Biológica, es el término 
 
 El SERNANP no cuenta con suficientes productos digitales descargables para la difusión del turismo y la promoción de voluntariados en ANP. 
 
-Su aplicación móvil 'Perú Natural' lanzada el 2014, actualmente se encuentra fuera de funcionamiento,  lo cual supone una desventaja al momento de intentar posicionar a las ANP en la oferta turística del país como destinos ideales para el turismo de naturaleza, aventura, cultura y recreación. Asimismo, la población necesita ser motivada y sentir suyas éstas áreas, pues solo así se convertirán en aliados estratégicos para la conservación y cuidado de las mismas.
+Su aplicación móvil 'Perú Natural' lanzada el 2014, actualmente se encuentra fuera de funcionamiento,  lo cual supone una desventaja al momento de intentar posicionar a las ANP en la oferta turística del país como destinos ideales para el turismo de naturaleza, aventura, cultura y recreación. Asimismo, la población necesita ser motivada y sentir suyas estas áreas, pues solo así se convertirán en aliados estratégicos para la conservación y cuidado de las mismas.
 
 ## Justificación del problema
 
