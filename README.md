@@ -22,7 +22,6 @@ Es el organismo público encargado de conservar el patrimonio natural del Perú 
 
 Según el Convenio Internacional sobre la Diversidad Biológica, es el término por el que se hace referencia a la amplia variedad de seres vivos sobre la Tierra.
 
-
 ## Problemática
 
 El SERNANP no cuenta con suficientes productos digitales descargables para la difusión del turismo y la promoción de voluntariados en ANP. 
@@ -88,7 +87,7 @@ En la búsqueda de medidas paliativas al problema nace 'Ecowasi App', una herram
 
 - **Lo que opinan los expertos**
     
-    Sandro Chávez Vásquez - Ex jefe del SERNANP             
+    Sandro Chávez Vásquez - Ex jefe del SERNANP:          
 
     > "Queremos comunicar que las áreas naturales no solo nos brindan paisajes hermosos, sino que nos dan una gran biodiversidad y numerosos servicios ambientales, como el agua y el clima. Se trata de todo un potencial que debemos cuidar."
 
@@ -98,8 +97,9 @@ En la búsqueda de medidas paliativas al problema nace 'Ecowasi App', una herram
 
 ## Síntesis y definición
 
-- **Affinity maps**
+- **Affinity diagram**
 
+    ![](assets/images/diagram.jpg)
 
 
 ## Ideación
@@ -154,5 +154,4 @@ En la búsqueda de medidas paliativas al problema nace 'Ecowasi App', una herram
 ### Customer journey map
 
 ## Conclusiones
-
 
