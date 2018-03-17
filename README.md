@@ -107,7 +107,6 @@ En la búsqueda de medidas paliativas al problema nace 'Ecowasi App', una herram
 
     ![](assets/images/diagram.jpg)
 
-
 ## Ideación
 
 - **Personas**
@@ -146,6 +145,10 @@ En la búsqueda de medidas paliativas al problema nace 'Ecowasi App', una herram
 
 ## MVP
 ----
+
+### MoSCoW : Técnica de priorización de requerimientos
+
+![moscow-matriz](assets/images/moscow.png)
 
 ### Feature list
 
