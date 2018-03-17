@@ -99,6 +99,12 @@ En la búsqueda de medidas paliativas al problema nace 'Ecowasi App', una herram
 
 - **Affinity diagram**
 
+    Posibilitó agrupar los insights de los usuarios en tres ítems claves:
+
+    - Información específica de cada ANP
+    - Información de voluntariados
+    - Sugerencias.
+
     ![](assets/images/diagram.jpg)
 
 
