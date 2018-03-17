@@ -152,15 +152,15 @@ En la búsqueda de medidas paliativas al problema nace 'Ecowasi App', una herram
 
 ### Feature list
 
-    - Información de las seis ANP más votadas
+- Información de las seis ANP más votadas
 
-    - Información de programas de voluntariado disponibles en estas ANP
+- Información de programas de voluntariado disponibles en estas ANP
 
-    - Inscripción a voluntariados desde el aplicativo
+- Inscripción a voluntariados desde el aplicativo
 
-    - Compra online del pasaporte de las ANP
+- Compra online del pasaporte de las ANP
 
-    - Juegos para obtener descuento en el pasaporte de las ANP.
+- Juegos para obtener descuento en el pasaporte de las ANP.
 
 ### Card Sorting
 
