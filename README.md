@@ -44,6 +44,8 @@ En la búsqueda de medidas paliativas al problema nace 'Ecowasi App', una herram
 
     ![data-ANP](assets/images/data-anp.png)
 
+    **Posicionamiento actual**
+
     La estrategia actual que tiene el SERNANP para acercar a los turistas a las ANP es su portal web [Turismo naturaleza](www.turismonaturaleza.pe), la aplicación 'Perú camping' para los aficionados a los campamentos  y el _Pasaporte de las ANP_ que permite el ingreso a diez áreas protegidas al precio de seis, durante el periodo de 2 años, el cual se debe adquirir presencialmente en las sedes administrativas del SERNANP.
 
 - **Benchmarking funcional**
