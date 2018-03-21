@@ -166,6 +166,18 @@ En la búsqueda de medidas paliativas al problema nace 'Ecowasi App', una herram
 
 ### A/B testing
 
+Se realizó el testing de lo siguiente con cinco participantes:
+
+- Layaout y/o diseño visual del aplicativo
+
+- La organización de información y titulares del aplicativo
+
+- La forma de presentación de las ANP
+
+- Las imágenes (ubicación, tamaño, propósito y cantidad) contenidas en el aplicativo.
+
+Se encontraron tendencias de comportamiento bastante similares que ayudaron a decidir mejoras en los flujos de compra de pasaporte, voluntariado y presentación de las ANP.
+
 ### User flow
 
 ## Prototyping / Testing
