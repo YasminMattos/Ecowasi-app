@@ -135,7 +135,7 @@ En la búsqueda de medidas paliativas al problema nace 'Ecowasi App', una herram
 
     - Facilitar el ingreso de visitantes a diversas ANP a través de nuestra aplicación
 
-    - Introducir la información de voluntariados en nuestra aplicación
+    - Mostrar la información de voluntariados en nuestra aplicación
 
     - Usar la tecnología para llamar la atención de los jóvenes y se interesen en visitar las ANP
 
@@ -154,15 +154,15 @@ En la búsqueda de medidas paliativas al problema nace 'Ecowasi App', una herram
 
 ### Feature list
 
-- Información de las seis ANP más votadas
+- Información de las seis ANP más populares entre los usuarios
 
 - Información de programas de voluntariado disponibles en estas ANP
 
-- Inscripción a voluntariados desde el aplicativo
+- Inscripción de voluntarios desde el aplicativo
 
-- Compra online del pasaporte de las ANP
+- Compra online del Pasaporte de la Conservación
 
-- Juegos para obtener descuento en el pasaporte de las ANP.
+- Juegos para obtener descuento en el pasaporte.
 
 ### A/B testing
 
