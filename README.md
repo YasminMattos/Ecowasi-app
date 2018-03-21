@@ -129,21 +129,21 @@ En la búsqueda de medidas paliativas al problema nace 'Ecowasi App', una herram
 
     - Adrian necesita encontrar el modo de que mediante la tecnología sus amigos se interesen por conocer las ANP.
  
-- **HMW**
+- **HMWs**
 
-    - ¿Cómo podríamos organizar toda la información de áreas naturales en una aplicación móvil?
+    - Organizar toda la información de áreas naturales en una aplicación móvil
 
-    - ¿Cómo podríamos facilitar el ingreso de visitantes a diversas ANP a través de nuestra aplicación?
+    - Facilitar el ingreso de visitantes a diversas ANP a través de nuestra aplicación
 
-    - ¿Cómo podríamos introducir la información de voluntariados en nuestra aplicación?
+    - Introducir la información de voluntariados en nuestra aplicación
 
-    - ¿Cómo podríamos usar la tecnología para llamar la atención de los jóvenes y se interesen en visitar las ANP?
+    - Usar la tecnología para llamar la atención de los jóvenes y se interesen en visitar las ANP
 
 - **WHAT IF**
 
-    - ¿WHAT IF un turista extranjero de habla inglesa descargara nuestra aplicación?
-
     - ¿WHAT IF algunas personas no saben qué es un ANP?
+
+    - ¿WHAT IF nuestro ususarios no quieren registrarse para ingresar al aplicativo?
 
 ## MVP
 ----
@@ -164,15 +164,11 @@ En la búsqueda de medidas paliativas al problema nace 'Ecowasi App', una herram
 
 - Juegos para obtener descuento en el pasaporte de las ANP.
 
-### Card Sorting
-
 ### A/B testing
 
 ### User flow
 
 ## Prototyping / Testing
-
-### Customer journey map
 
 ## Conclusiones
 
