@@ -198,5 +198,9 @@ Se encontraron tendencias de comportamiento bastante similares que ayudaron a de
 
 ## Prototyping / Testing
 
+### Paper prototyping
+
+### Prototipo en Marvel
+
 ## Conclusiones
 
