@@ -201,17 +201,19 @@ Se diseñó y testeó un primer prototipo de baja fidelidad con tres participant
 
 [Fotos del testing](https://photos.app.goo.gl/AyUGZJU877pFxPqD2)
 
-### Prototipo en Marvel
+### Prototipo
 
 Se realizó una iteración del primer diseño de alta fidelidad hecho en Figma.
 
 [Primera versión en Figma](https://www.figma.com/file/KXIyisXzzFPdayfgCqqQglgz/Ecowasi-app)
 
+[Segunda versión en Figma](https://www.figma.com/file/CS1hPwcryy5v3ADBN6AMpi/Ecowasi-app-Copy?node-id=46%3A2)
 
 Después de levantar correcciones en todo el flujo del aplicativo, se obtuvo el siguiente resultado:
 
-[Última versión del prototipo](https://marvelapp.com/4jb824f)
+[Última versión del prototipo en Marvel](https://marvelapp.com/4jb824f)
 
+[Presentación en Marvel](https://marvelapp.com/4jb824f/screen/40082770)
 
 ### El valor contenido en Ecowasi
 
@@ -240,7 +242,7 @@ Muestra la información que el voluntario requiere:
 
 Se puede acceder a ella sin haberse registrado o iniciado sesión.
 
-#### Postulación a voluntariado desde el app
+#### Postulación a voluntariados desde el app
 
 El proceso es fácil y rápido. Solo se debe iniciar sesión, llenar los datos y adjuntar los archivos que se solicitan.
 
