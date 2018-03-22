@@ -1,7 +1,13 @@
-# Personal Project: Ecowasi App
+# Ecowasi App
 ------
 
-'Ecowasi' es una aplicación móvil que te conecta con la naturaleza. Es un espacio de apertura para el turismo vivencial.
+Ecowasi es una aplicación móvil que te conecta con la naturaleza. Es un espacio que te invita a experimentar el turismo vivencial en ANPs.
+
+![image](https://user-images.githubusercontent.com/32296818/37793205-ecb4b18c-2ddb-11e8-9140-52225577a329.png)
+
+## Elaborado  para
+
+[Laboratoria](http://convocatoria.laboratoria.la/)
 
 ## Objetivos:
 
