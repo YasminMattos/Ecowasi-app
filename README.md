@@ -176,7 +176,7 @@ Se realizó el testing de lo siguiente:
 
 - Las imágenes (ubicación, tamaño, propósito y cantidad) contenidas en el aplicativo
 
-- Nombre y diseño de los juegos.
+- Nombre, diseño y guión de los juegos.
 
 Participantes: Sofía (34), Roberto (36) y Lilia (8).
 
@@ -191,16 +191,71 @@ Participantes: Sofía (34), Roberto (36) y Lilia (8).
 [3]: assets/images/user3_opt.jpg "Lilia"
 
 
-Se encontraron tendencias de comportamiento bastante similares que ayudaron a decidir mejoras en los flujos de compra de pasaporte, presentación de las ANP y diseño de los juegos.
-
-
-### User flow
+Se encontraron tendencias de comportamiento bastante similares que ayudaron a decidir mejoras en los flujos de compra de pasaporte, presentación de las ANP, diseño y guión de 3 de los 6 juegos.
 
 ## Prototyping / Testing
 
 ### Paper prototyping
 
+Se diseñó y testeó un primer prototipo de baja fidelidad con tres participantes.
+
+[Fotos del testing](https://photos.app.goo.gl/AyUGZJU877pFxPqD2)
+
 ### Prototipo en Marvel
 
+Se realizó una iteración del primer diseño de alta fidelidad hecho en Figma.
+
+[Primera versión en Figma](https://www.figma.com/file/KXIyisXzzFPdayfgCqqQglgz/Ecowasi-app)
+
+
+Después de levantar correcciones en todo el flujo del aplicativo, se obtuvo el siguiente resultado:
+
+[Última versión del prototipo](https://marvelapp.com/4jb824f)
+
+
+### El valor contenido en Ecowasi
+
+#### Información de ANPs:
+
+La relevante por cada ANP (seis en total): 
+
+- Breve descripción
+- Actividades permitidas
+- Horario de visita
+- Tarifario actualizado
+- Vías de acceso
+- Imágenes de su biodiversidad
+- Mapa de ubicación.
+
+#### Programas de voluntariado disponibles:
+
+Muestra la información que el voluntario requiere:
+
+- Lo que ofrece como voluntario a la ANP
+- Los beneficios que obtiene
+- Requisitos
+- Número de vacantes
+- Duración del voluntariado
+- PDF adjunto con detalles del programa.
+
+Se puede acceder a ella sin haberse registrado o iniciado sesión.
+
+#### Postulación a voluntariado desde el app
+
+El proceso es fácil y rápido. Solo se debe iniciar sesión, llenar los datos y adjuntar los archivos que se solicitan.
+
+#### Compra de pasaporte de la Conservación
+
+Solo si estás registrado o si iniciaste sesión. El proceso es muy sencillo: llenas tus datos, adjuntas una fotografía, realizas el pago y listo.
+
+#### Gamification: Juegos de ANPs
+
+El aplicativo cuenta con 6 juegos, cada uno de cada ANP, con el propósito de motivar a grandes y chicos a que conozcan y valoren la biodiversidad que hay en estas áreas, más que obtener ecopuntos para el 20% de descuento en la compra del pasaporte, el objetivo es crear conciencia ambiental de forma lúdica.
+
+Por el momento solo se cuenta con los personajes y el guión del primer nivel de cada juego y 
+también se debe iniciar sesión para acceder a ellos.
+
 ## Conclusiones
+
+Si bien es un MVP con mejoras que añadir, el corazón de este proyecto es su contenido y el valor que puede tener tanto para los que buscan información sobre ANPs y voluntariados, para los que ya conocen un pedacito de lo maravilloso de la vida natural y quieren seguir encantándose con ella, como para los que no sabían incluso que era un ANP, y en especial va dedicado a estos últimos, porque no se puede amar lo que no se conoce.
 
